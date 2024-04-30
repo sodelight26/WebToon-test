@@ -4,7 +4,7 @@ Resource    ../../resoures/keywords.robot
 *** Test Cases ***
 Vaild Login
     Given Browwser is opened to login page
-    When email "sulkifreelaz@gmail.com" log with password "987789" 
+    When email "testemail.com" log with password "987789" 
     Then Home Page Should Be Open
 *** Keywords ***
 Browwser is opened to login page
