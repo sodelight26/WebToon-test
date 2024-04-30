@@ -14,9 +14,9 @@ Browser is open to register page
     Open Browser    https://www.webtoons.com/member/join    ${BROWSER}
 
 Fill out information and apply for membership
-    Input Email For Register    sulkifreelaz@gmail.com 
-    Input Password For Register    muo987789
-    Confirm To Register    muo987789
+    Input Email For Register    testemail.com@gmail.com 
+    Input Password For Register    987789
+    Confirm To Register   987789
     Nickname To Register    teeens63
     Click Signup Button
 
