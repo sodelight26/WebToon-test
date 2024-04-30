@@ -9,10 +9,10 @@ ${DELAY}             0
 ${WEBTOON_URL}       https://www.webtoons.com/th/
 ${REG_URL}           https://www.webtoons.com/member/join
 
-${VALID_EMAIL}       sulkifreelaz@gmail.com
-${VALID_PASSWORD}    muo987789
-${RETYPE_PASSWORD}   muo987789
-${NICKNAME}          teen1
+${VALID_EMAIL}       testemail@gmail.com
+${VALID_PASSWORD}    textpassword
+${RETYPE_PASSWORD}   
+${NICKNAME}          
 
 ${search-term}       ยอดสถาปนิกผู้พิทักษ์อาณาจักร
 ${expected_search}   ยอดสถาปนิกผู้พิทักษ์อาณาจักร
