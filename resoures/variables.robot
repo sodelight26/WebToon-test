@@ -4,9 +4,9 @@ ${DELAY}             0
 ${WEBTOON_URL}       https://www.webtoons.com/th/
 ${REG_URL}           https://www.webtoons.com/member/join
 
-${VALID_EMAIL}       sulkifreelaz@gmail.com
-${VALID_PASSWORD}    muo987789
-${RETYPE_PASSWORD}   muo987789
+${VALID_EMAIL}       testemail.com
+${VALID_PASSWORD}    987789
+${RETYPE_PASSWORD}   987789
 ${NICKNAME}          teen1
 
 ${search-term}       ยอดสถาปนิกผู้พิทักษ์อาณาจักร
